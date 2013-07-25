@@ -3,7 +3,7 @@
 LOCAL_PATH := $(call my-dir)
 
 updater_src_files := \
-	../mtdutils/mounts.c \
+	../mounts.c \
 	install.c \
 	updater.c
 
